@@ -4,7 +4,7 @@ use App\Kernel;
 use Symfony\Component\HttpFoundation\Request;
 
 /**
- *----------------------------------------------------
+ *---------------------------------------------------------------------------------
  *                      Bienvenue sur Véga
  *
  *L'index.php, le controleur frontal.
@@ -18,7 +18,7 @@ use Symfony\Component\HttpFoundation\Request;
  *      6-envoyer cette réponse au serveur
  *          *afin que le server l'envoi dans le navigateur du client
  *          *afin qu'elle soit affichée sur son écran
- * ---------------------------------------------------
+ * -------------------------------------------------------------------------------
  */
 
 // use Psr\Log\LoggerInterface;
